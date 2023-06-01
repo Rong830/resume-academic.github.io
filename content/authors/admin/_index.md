@@ -33,7 +33,7 @@ education:
   courses:
     - course: PhD in Artificial Intelligence for Phenotypic Virtual Screening
       institution: Imperial College London
-      year: 2022
+      year: 2023
     - course: Msc in Bioinformatics
       institution: University of Edinburgh
       year: 2021
