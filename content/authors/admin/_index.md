@@ -13,43 +13,40 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/GuoChloe1
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Rong830
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/qianrong-guo/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Artificial Intelligence for Phenotypic Virtual Screening
+      institution: Imperial College London
+      year: 2022
+    - course: Msc in Bioinformatics
+      institution: University of Edinburgh
+      year: 2021
+    - course: BSc in Biology
+      institution: China University of Geosciences
+      year: 2017
 superuser: true
 status:
   icon: ☕️
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: q.guo22@imperial.ac.uk
 ---
 As a student studying biology and bioinformatics, I've always benefited from and been intrigued by the magic of big data. I had a taste of applying machine learning analysis in research projects and started being attracted by Bioinformatics during my undergraduate studies. I continued this interest in my graduate studies using bioinformatic tools to tackle biological problems, where I appreciated the efficiency of programming and developed my passion for diving deeper into machine learning, especially the deep learning area.
 {style="text-align: justify;"}
