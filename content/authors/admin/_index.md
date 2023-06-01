@@ -35,7 +35,7 @@ education:
       institution: Imperial College London
       year: 2023
     - course: Msc in Bioinformatics
-      institution: University of Edinburgh
+      institution: The University of Edinburgh
       year: 2021
     - course: BSc in Biology
       institution: China University of Geosciences
