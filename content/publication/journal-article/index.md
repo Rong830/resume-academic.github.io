@@ -32,7 +32,7 @@ tags:
 - Drug Discovery
 - Cancer
 - Graph Neural Networks
-- Large Language Mdel
+- Large Language Model
 
 featured: false
 
