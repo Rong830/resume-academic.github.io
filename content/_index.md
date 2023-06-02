@@ -68,25 +68,15 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: 
+      email: q.guo22@imperial.ac.uk
       address:
-        street: 450 Serra Mall
-        city: Stanford
+        street: 86 Wood Ln
+        city: London
         region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        postcode: 'W12 0BZ'
+        country: United Kindom
+      directions: U301/05, 3rd Floor, Building E - Sir Michael Uren, White City Campus
       # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
