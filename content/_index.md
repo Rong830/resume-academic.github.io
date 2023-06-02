@@ -37,6 +37,22 @@ sections:
               Responsibilities include:
 
               * Graph-based and language model development for Protein-protein Interaction (PPI) prediction and antibiotic discovery
+        - title: Research Assistant
+          company: The University of Edinburgh
+          company_url: 'https://www.ed.ac.uk/'
+          company_logo: uoe
+          location: Edinburgh
+          date_start: '2022-04-01'
+          date_end: '2022-08-01'
+          description: |2-
+              Deep learning in phenotypic drug discovery against glioblastoma cells. Supervised by Dr. Diego Oyarzún, Dr. Vanessa Smer-Barreto.
+
+              * Aim: Machine learning approaches for discovering novel chemicals that change the morphology of Glioblastoma cells. 
+              * Method: Developed and optimized a graph neural network for feature extraction combining information from RDkit and features extracted  a large pre-trained language model (ChemBERTa). Improved model architecture and metrics, particularly for imbalanced data.
+          tags:
+            - Drug Discovery
+            - Graph Neural Networks 
+            - Natural Language Processing
     design:
       columns: '2'
   - block: collection
