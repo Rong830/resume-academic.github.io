@@ -43,9 +43,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Guo
 highlight_name: true
-first_name: Alice
+first_name: Qianrong
 email: q.guo22@imperial.ac.uk
 ---
 Hi! I am a 1st year PhD student at the Bioengineering department at Imperial College Londno. I am currently advised by [Dr. Pedro Ballester](https://www.imperial.ac.uk/people/p.ballester). Prior to starting my PhD, I obtained my Masters from the University of Edinburgh, where I worked with Dr. Diego Oyarzún on machine learning for Phenotypic Drug Discovery. Before that, I obtained my Bachelors from China University of Geosciences. My current research is focused on Artificial Intelligence for Phenotypic Virtual Screening and hope to make significant contributions to the field of drug discovery. I am particularly interested in developing novel computational approaches that can accelerate the identification of potential drug candidates for various diseases.
