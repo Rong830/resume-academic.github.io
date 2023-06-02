@@ -53,6 +53,19 @@ sections:
             - Drug Discovery
             - Graph Neural Networks 
             - Natural Language Processing
+        - title: Research Assistant
+          company: China University of Geosciences
+          company_url: 'https://en.cug.edu.cn/'
+          company_logo: cug
+          location: Wuhan
+          date_start: '2020-04-01'
+          date_end: '2021-06-01'
+          description: |2-
+              Effects of red phosphorus on metabolism of microorganisms. Supervised by Dr. Liang Feng.
+
+              * Aim: Identification of novel chemicals that interfere with the metabolism of microorganisms.
+              
+              * Method: Applied Gradient Boosting Tree and Random Forest to predict the most efficient concentration of 4 types of red phosphorus using transcriptomics data and visible light wavelength. Performed data cleaning, analysis, and visualization using Python.
     design:
       columns: '2'
   - block: collection
