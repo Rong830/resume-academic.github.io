@@ -130,7 +130,7 @@ sections:
         city: London
         postcode: 'W12 0BZ'
         country: United Kindom
-      directions: U301/05, 3rd Floor, Building E - Sir Michael Uren, White City Campus
+      directions: Sir Michael Uren, White City Campus
       # Automatically link email and phone or display as text?
     design:
       columns: '2'
