@@ -34,7 +34,7 @@ sections:
           description: |2-
               Data Technology and Analysis Department - Data Technology AI Team
 
-              Responsibilities include:
+              Responsibilities:
 
               * Graph-based and language model development for Protein-protein Interaction (PPI) prediction and antibiotic discovery
         - title: Research Assistant
@@ -45,10 +45,13 @@ sections:
           date_start: '2022-04-01'
           date_end: '2022-08-01'
           description: |2-
-              Deep learning in phenotypic drug discovery against glioblastoma cells. Supervised by Dr. Diego Oyarzún, Dr. Vanessa Smer-Barreto.
+              Responsibilities:
 
-              * Aim: Machine learning approaches for discovering novel chemicals that change the morphology of Glioblastoma cells. 
-              * Method: Developed and optimized a graph neural network for feature extraction combining information from RDkit and features extracted  a large pre-trained language model (ChemBERTa). Improved model architecture and metrics, particularly for imbalanced data.
+              * Conducted research on deep learning techniques in phenotypic drug discovery against glioblastoma cells.
+              
+              * Developed and optimized a graph neural network for feature extraction, combining information from RDkit and features extracted from a large pre-trained language model (ChemBERTa).
+              
+              * Improved model architecture and evaluation metrics, particularly for handling imbalanced data.
           tags:
             - Drug Discovery
             - Graph Neural Networks 
@@ -63,9 +66,13 @@ sections:
           description: |2-
               Effects of red phosphorus on metabolism of microorganisms. Supervised by Dr. Liang Feng.
 
-              * Aim: Identification of novel chemicals that interfere with the metabolism of microorganisms.
+              Responsibilities:
+
+              * Investigated the effects of red phosphorus on the metabolism of microorganisms.
               
-              * Method: Applied Gradient Boosting Tree and Random Forest to predict the most efficient concentration of 4 types of red phosphorus using transcriptomics data and visible light wavelength. Performed data cleaning, analysis, and visualization using Python.
+              * Utilized Gradient Boosting Tree and Random Forest algorithms to predict the optimal concentration of different types of red phosphorus using transcriptomics data and visible light wavelength.
+              
+              * Conducted data cleaning, analysis, and visualization using Python.
         - title: Research Assistant
           company: China University of Geosciences
           company_url: 'https://en.cug.edu.cn/'
@@ -76,7 +83,15 @@ sections:
           description: |2-
               Neosinocalamus growth prediction using image data
 
-              The aim of this study was to analyze the connection between growth and development of Neosinocalamus affinis with the cells' structure and components at the molecular level. The leaves from Neosinocalamus affinis were collected and processed. K-means clustering was applied to the mean size and number of each phytolith from different positions of leaves from different ages. The study discovered the correlation between the size and numbers of phytolith and the growth of the affinis, which could be used to predict the age and living environment of plants sample collected from fossil.
+              Responsibilities:
+
+              * Analyzed the growth and development of Neosinocalamus affinis using image data.
+              
+              * Collected and processed leaves from Neosinocalamus affinis.
+              
+              * Applied K-means clustering to analyze the correlation between the size, number, and positions of phytoliths and the growth of Neosinocalamus affinis.
+              
+              * Identified the connection between the cells' structure and components at the molecular level and the growth of Neosinocalamus affinis.
     design:
       columns: '2'
   # - block: collection
