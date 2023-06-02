@@ -23,19 +23,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Development Intern
+          company: WuXi Biologics
+          company_url: 'https://www.wuxibiologics.com/'
+          company_logo: wuxi
+          location: Shanghai
+          date_start: '2022-09-01'
+          date_end: '2022-12-01'
           description: |2-
+              Data Technology and Analysis Department - Data Technology AI Team
+
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Graph-based and language model development for Protein-protein Interaction (PPI) prediction and antibiotic discovery
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
@@ -72,7 +72,6 @@ sections:
       address:
         street: 86 Wood Ln
         city: London
-        region: CA
         postcode: 'W12 0BZ'
         country: United Kindom
       directions: U301/05, 3rd Floor, Building E - Sir Michael Uren, White City Campus
