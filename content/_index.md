@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Qianrong-Guo
 date: 2023-06-01
 type: landing
 
