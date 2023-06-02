@@ -79,17 +79,17 @@ sections:
               The aim of this study was to analyze the connection between growth and development of Neosinocalamus affinis with the cells' structure and components at the molecular level. The leaves from Neosinocalamus affinis were collected and processed. K-means clustering was applied to the mean size and number of each phytolith from different positions of leaves from different ages. The study discovered the correlation between the size and numbers of phytolith and the growth of the affinis, which could be used to predict the age and living environment of plants sample collected from fossil.
     design:
       columns: '2'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
   - block: tag_cloud
     content:
       title: Popular Topics
