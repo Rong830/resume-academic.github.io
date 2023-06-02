@@ -49,6 +49,10 @@ sections:
 
               * Aim: Machine learning approaches for discovering novel chemicals that change the morphology of Glioblastoma cells. 
               * Method: Developed and optimized a graph neural network for feature extraction combining information from RDkit and features extracted  a large pre-trained language model (ChemBERTa). Improved model architecture and metrics, particularly for imbalanced data.
+          tags:
+            - Drug Discovery
+            - Graph Neural Networks 
+            - Natural Language Processing
         - title: Research Assistant
           company: China University of Geosciences
           company_url: 'https://en.cug.edu.cn/'
@@ -62,7 +66,6 @@ sections:
               * Aim: Identification of novel chemicals that interfere with the metabolism of microorganisms.
               
               * Method: Applied Gradient Boosting Tree and Random Forest to predict the most efficient concentration of 4 types of red phosphorus using transcriptomics data and visible light wavelength. Performed data cleaning, analysis, and visualization using Python.
-
         - title: Research Assistant
           company: China University of Geosciences
           company_url: 'https://en.cug.edu.cn/'
