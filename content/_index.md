@@ -105,6 +105,11 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
+  - block: tag_cloud
+    content:
+      title: Popular Topics
+    design:
+      columns: '2'
   - block: markdown
     content:
       title: Gallery
@@ -113,12 +118,7 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
-  - block: contact
+- block: contact
     id: contact
     content:
       title: Contact
