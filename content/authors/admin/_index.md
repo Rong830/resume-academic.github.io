@@ -23,9 +23,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/qianrong-guo/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/
