@@ -94,17 +94,17 @@ sections:
               * Identified the connection between the cells' structure and components at the molecular level and the growth of Neosinocalamus affinis.
     design:
       columns: '2'
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: tag_cloud
     content:
       title: Popular Topics
